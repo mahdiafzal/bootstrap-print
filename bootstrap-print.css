@@ -1,0 +1,108 @@
+.btn-group-vertical>.btn-group:after, .btn-group-vertical>.btn-group:before, .btn-toolbar:after, .btn-toolbar:before, .clearfix:after, .clearfix:before, .container-fluid:after, .container-fluid:before, .container:after, .container:before, .dl-horizontal dd:after, .dl-horizontal dd:before, .form-horizontal .form-group:after, .form-horizontal .form-group:before, .modal-footer:after, .modal-footer:before, .modal-header:after, .modal-header:before, .nav:after, .nav:before, .navbar-collapse:after, .navbar-collapse:before, .navbar-header:after, .navbar-header:before, .navbar:after, .navbar:before, .pager:after, .pager:before, .panel-body:after, .panel-body:before, .row:after, .row:before 
+{
+    display: table;
+    content: " ";
+}
+
+.btn-group-vertical>.btn-group:after, .btn-toolbar:after, .clearfix:after, .container-fluid:after, .container:after, .dl-horizontal dd:after, .form-horizontal .form-group:after, .modal-footer:after, .modal-header:after, .nav:after, .navbar-collapse:after, .navbar-header:after, .navbar:after, .pager:after, .panel-body:after, .row:after 
+{
+    clear: both;
+}
+
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 
+{
+    float: right;
+    position: relative;
+    min-height: 1px;
+}
+
+.col-md-12 {
+    width: 100%;
+}
+
+.col-md-11 {
+    width: 91.66666667%;
+}
+
+.col-md-10 {
+    width: 83.33333333%;
+}
+
+.col-md-9 {
+    width: 75%;
+}
+
+.col-md-8 {
+    width: 66.66666667%;
+}
+
+.col-md-7 {
+    width: 58.33333333%;
+}
+
+.col-md-6 {
+    width: 50%;
+}
+
+.col-md-4 {
+    width: 33.33333333%;
+}
+
+.col-md-3 {
+    width: 25%;
+}
+
+.col-md-2 {
+    width: 16.66666667%;
+}
+
+.col-md-1 {
+    width: 8.33333333%;
+}
+
+
+.visible-xs {
+    display: none !important;
+}
+
+.hidden-xs {
+    display: block !important;
+}
+
+table.hidden-xs {
+    display: table;
+}
+
+tr.hidden-xs {
+    display: table-row !important;
+}
+
+th.hidden-xs,
+td.hidden-xs {
+    display: table-cell !important;
+}
+
+.hidden-xs.hidden-print {
+    display: none !important;
+}
+
+.hidden-md {
+    display: none !important;
+}
+
+.visible-md {
+    display: block !important;
+}
+
+table.visible-md {
+    display: table;
+}
+
+tr.visible-md {
+    display: table-row !important;
+}
+
+th.visible-md,
+td.visible-md {
+    display: table-cell !important;
+}
